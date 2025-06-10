@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 8,
+            "activePatchIndex": 10,
             "patches": [
                 {
                     "date": 1749556481635,
@@ -40,6 +40,14 @@
                 {
                     "date": 1749557359070,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -33,9 +33,9 @@\n         <p>\r\n           I'm a Web developer that loves building products and web applications that impact millions of lives.\r\n         </p>\r\n         <div class=\"btn-con\">\r\n-          <a href=\"Avina\" class=\"main-btn\">\r\n+          <a href=\"Avinash1.pdf\" class=\"main-btn\">\r\n             <span class=\"btn-text\">Download CV</span>\r\n             <span class=\"btn-icon\"><i class=\"fas fa-download\"></i></span>\r\n           </a>\r\n         </div>\r\n"
+                },
+                {
+                    "date": 1749558123785,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -119,9 +119,9 @@\n               </div>\r\n             </div>\r\n           </div>\r\n           <div class=\"progress-bar\">\r\n-            <p class=\"prog-title\">Python</p>\r\n+            <p class=\"prog-title\">Java</p>\r\n             <div class=\"progress-con\">\r\n               <p class=\"prog-text\">70%</p>\r\n               <div class=\"progress\">\r\n                 <span class=\"python\"></span>\r\n"
+                },
+                {
+                    "date": 1749558129456,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -123,9 +123,9 @@\n             <p class=\"prog-title\">Java</p>\r\n             <div class=\"progress-con\">\r\n               <p class=\"prog-text\">70%</p>\r\n               <div class=\"progress\">\r\n-                <span class=\"\"></span>\r\n+                <span class=\"j\"></span>\r\n               </div>\r\n             </div>\r\n           </div>\r\n         </div>\r\n"
                 }
             ],
             "date": 1749556481635,
